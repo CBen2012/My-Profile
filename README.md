@@ -13,7 +13,7 @@
 <h2>Ideal Job</h2>
 <h4>
 <p>
-<a href="https://www.seek.com.au/job/50389438?type=standard#searchRequestToken=b34c11ec-bb8f-4d15-b1ff-62451bf07358">https://www.seek.com.au/job/50389438?type=standard#searchRequestToken=b34c11ec-bb8f-4d15-b1ff-62451bf07358</a>
+<a href="https://www.seek.com.au/job/50389438?type=standard#searchRequestToken=b34c11ec-bb8f-4d15-b1ff-62451bf07358">Go to job advertisement at seek.com</a>
 </p>
 <p>A game developer works in a development team for a video game company. The team works together to build features such at level design, story, sound etc. in order to make a complete, playable product.</p>
 <p>As I have played and enjoyed video game throughout majority of my life, I would love to work for a development company knowing that the game I am working on is providing people with some enjoyment in their down time.</p>
