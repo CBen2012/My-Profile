@@ -1,10 +1,10 @@
 <h1>My Profile</h1>
 <h2>Personal Information</h2>
-<h3>
+<h4>
 <p>My name is Campbell Bennett; student number is s3841068. My email address is s3841068@student.rmit.edu.au. I am 18 years old and I have lived in Melbourne, Victoria, my entire life. I went to Brighton Secondary College, at which I graduated in 2019.</p>
 <p>I grew up in a family of four with my two parents and my brother. I am a big fan of both watching and playing sports, especially basketball. I often go to the park across the road to have a kick of the footy or shoot around with my brother and father. </p>
 <p>I also have a pet cat named Pepper. I really enjoy playing video games with friends. I mostly play Rainbow Six Siege or NBA 2K on the PS4.</p>
-</h3>
+</h4>
 <h2>Interests in IT</h2>
 <h3>
 <p>My interest in IT as a career path started in 2016. Shortly after I purchased the PlayStation in April, I was interested as to how it worked. I remember going to a friend’s place to open his up and have a look inside. It was cool to see the different components and the connections between them. Around a year later, we purchased the parts to build our own PC. This captured my interest as we were able to successfully put it together first try.</p>
